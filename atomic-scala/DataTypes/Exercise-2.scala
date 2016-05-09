@@ -1,3 +1,2 @@
-val num:Int = 17
-num = 20
-// will throw error: reassignment to val
+val s:String = "ACB1234"
+println(s)
