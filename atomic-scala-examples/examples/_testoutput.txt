@@ -188,3 +188,398 @@ Vector(1, 3, 5, 7)
 Vector(1, 3, 5, 7)
 Vector(12, 32, 52, 72)
 Vector(Vector(0), Vector(0, 1, 2), Vector(0, 1, 2, 3, 4), Vector(0, 1, 2, 3, 4, 5, 6))
+An Int Less than 20: 5
+Some Other Int: 25
+A String: Some text
+A person Bob
+I don't know what that is!
+Train line Reading Vector(Passenger(Harvey,Rabbit), Passenger(Dorothy,Gale))
+Bus size 100 Vector(Passenger(Harvey,Rabbit), Passenger(Dorothy,Gale))
+Vector(1, 3, 5, 7)
+Vector(1, 3, 5, 7)
+Vector(1, 3, 5, 7)
+Vector(1, 3, 5, 7)
+OttoBoughtAnAuto
+OttoBoughtAnAuto
+OttoBoughtAnAutoVector(11, 22, 99, 34)
+Vector(11, 22, 99, 34)
+()
+LongUnrulyNameFromSomeone()
+Hi
+Hi
+Hi
+Rowzafrazaca!
+Rowzafrazaca!
+Bicycle(2)
+Main$$anon$1$Surrey@158da8e
+Surrey with the fringe on top
+ReturnBlob(14.0,High)
+ReturnBlob(8.0,Low)
+(14.0,High)
+(8.0,Low)
+(14.0,High,true)
+(8.0,Low,false)
+(Mouse,false,1,3.14,Altitude)
+1
+3.14
+Mouse
+false
+Altitude
+Bob
+1130
+10
+20
+10
+20
+2
+20
+40
+1
+2
+3
+1
+2
+3
+Vector(Count0, Count1, Count2, Count3, Count4)
+Car(Toyota)
+weight: 100.0 age: 12
+weight: 100.0 age: 12
+weight: 100.0 age: 12
+weight: 100.0 age: 12
+weight: 100.0 age: 12
+weight: 100.0 age: 12
+weight: 100.0 age: 12
+weight: 100.0 age: 12
+888 N. Main St.
+KS
+Metropolis
+Metropolis: 888 N. Main St., KS 66632
+KS
+6
+8
+Oak
+48104
+Hoo!9
+Eep!22
+Yawp!27
+Medium
+Medium
+Vector((0,Overflow), (1,High), (2,Medium), (3,Low), (4,Empty))
+Vector(Overflow, High, Medium, Low, Empty)
+Level Low OK
+Alert: Empty
+>>> Overflow!
+The Duck goes Quack
+The Cow goes Moo
+Constructor body
+9.9
+A.gB.g
+27
+44.71828
+1
+42
+Solid
+Solid2(47)
+Dragon interact Wall
+Viking, Fight!
+Dwarf, Fight!
+anon, Fight!
+Dragon, Fly!, Fairy interact Dragon
+true
+false
+88.0
+Vector(It's Red, It's Green, It's Blue)
+BouncingBall(level2)
+FlexingWall(type3)
+22
+14
+Scoops(WaffleCone,WrappedArray(Scoop(Extra,MochaFudge), Scoop(Extra,ButterPecan), Scoop(Extra,Chocolate)))
+MadeToOrder(Bowl,List(Scoop(Regular,Strawberry), Scoop(Regular,ButterPecan)),List())
+Sundae(Sauce(Regular,HotFudge),Sprinkles(Regular,Chocolate),WhippedCream(Regular),Nuts(Regular),WrappedArray(Scoop(Regular,Coffee), Scoop(Regular,RumRaisin)))
+false
+5
+Vector(1, 7, 22, 11, 17, 99)
+Vector(47, 1, 7, 22, 11, 17)
+1
+Vector(7, 22, 11, 17)
+17
+Vector(11, 17)
+Vector(1, 7)
+Vector(1, 7, 22)
+Vector(22, 11, 17)
+Vector(22, 11, 17)
+11
+true
+2
+Vector(1, 7, 22, 16, 17)
+Vector(1, 7, 22, 17)
+Vector(1, 7, 22, 11, 17, 99, 88)
+Vector(1, 7, 11, 17, 22)
+Vector(17, 11, 22, 7, 1)
+Vector(1, 7, 22, 11, 17)
+1
+22
+true
+true
+58
+28798
+Set(1, 17, 22, 7, 11)
+false
+5
+List(1, 7, 22, 11, 17, 99)
+List(47, 1, 7, 22, 11, 17)
+1
+List(7, 22, 11, 17)
+17
+List(11, 17)
+List(1, 7)
+List(1, 7, 22)
+List(22, 11, 17)
+List(22, 11, 17)
+11
+true
+2
+List(1, 7, 22, 16, 17)
+List(1, 7, 22, 17)
+List(1, 7, 22, 11, 17, 99, 88)
+List(1, 7, 11, 17, 22)
+List(17, 11, 22, 7, 1)
+List(1, 7, 22, 11, 17)
+1
+22
+true
+true
+58
+28798
+Set(1, 17, 22, 7, 11)
+Recursion150
+150
+150
+150
+150
+150
+Vector((a,q), (b,r), (c,s), (d,t))
+Vector((a,0), (b,1), (c,2), (d,3))
+Vector((a,0), (b,1), (c,2), (d,3))
+Vector((0,H), (1,o), (2,w), (3,d), (4,y))
+Vector(Person(Bob,1731), Person(Jill,9274), Person(Jim,8378))
+Set(1, 6, 9, 2, 22, 7, 3, 11, 4)
+true
+false
+true
+Set(1, 6, 9, 2, 22, 7, 3, 11, 99, 4)
+Set(1, 6, 9, 2, 22, 7, 3, 11, 99, 4)
+Set(1, 22, 11)
+Set(1, 22, 11)
+Set(6, 9, 2, 7, 3, 4)
+Set(6, 9, 2, 7, 3, 4)
+Vector(NumericRange(a, b, c, d), NumericRange(a, b, c, d), NumericRange(a, b, c, d))
+Vector(a, b, c, d, a, b, c, d, a, b, c, d)
+Set(a, b, c, d)
+Map(Pi -> 3.141, e -> 2.718, phi -> 1.618)
+Map(Pi -> 3.141, e -> 2.718, phi -> 1.618)
+2.718
+Set(Pi, e, phi)
+MapLike(3.141, 2.718, 1.618)
+List((Pi,3.141), (e,2.718), (phi,1.618))
+List(Pi: 3.141, e: 2.718, phi: 1.618)
+Set(Dick, Carl, Joe, Tor)
+Vector(Bird, Duck, Cat, Dog)
+11
+22
+11
+13
+97
+five
+Map(5 -> five, 6 -> six)
+Map(5 -> five, 6 -> six, 4 -> four)
+five
+5ive
+Map(5 -> 5ive, 4 -> four, 6 -> six)
+orange
+red
+green
+blue
+brown
+((yellow,orange),red)
+((blue,orange),brown)
+((orange,red),orange)
+((red,yellow),orange)
+((red,red),red)
+((orange,yellow),red)
+((orange,blue),brown)
+((green,red),green)
+((purple,green),red)
+((brown,green),brown)
+((brown,brown),brown)
+((purple,blue),green)
+((brown,blue),brown)
+((green,blue),orange)
+((brown,yellow),brown)
+((yellow,red),orange)
+((red,purple),purple)
+((green,green),green)
+((purple,red),purple)
+((blue,brown),brown)
+((red,orange),orange)
+((purple,brown),brown)
+((brown,orange),brown)
+((blue,blue),blue)
+((brown,purple),brown)
+((purple,orange),blue)
+((green,brown),brown)
+((green,orange),yellow)
+((blue,green),orange)
+((yellow,brown),brown)
+((red,green),green)
+((orange,green),yellow)
+((purple,yellow),orange)
+((blue,purple),green)
+((yellow,yellow),yellow)
+((orange,orange),orange)
+((green,yellow),brown)
+((yellow,green),brown)
+((red,blue),purple)
+((orange,purple),blue)
+((purple,purple),purple)
+((yellow,purple),orange)
+((blue,yellow),green)
+((yellow,blue),green)
+((green,purple),red)
+((brown,red),brown)
+((blue,red),purple)
+((orange,brown),brown)
+((red,brown),brown)
+orange
+red
+green
+blue
+brown
+6
+4
+4
+Failed: Divide by zero
+1
+0
+OK
+Except1 Reason
+Except2 11
+Except3 Wanted: 1.618
+class CodeListingTester(
+File Not Found: NotAFile.scala
+NotAScalaFile.txt doesn't end with '.scala'
+Error: Null file name
+6
+4
+4
+Failed: Divide by zero
+1
+0
+OK
+Except1 Reason
+Except2 11
+Except3 Wanted: 1.618
+class CodeListingTester(
+File Not Found: NotAFile.scala
+NotAScalaFile.txt doesn't end with '.scala'
+Error: Null file name
+Vector(Right(0), Left(1), Right(2), Left(3), Right(4), Left(5), Right(6), Left(7), Right(8), Left(9))
+Vector(Even: 0, Odd: 1, Even: 2, Odd: 3, Even: 4, Odd: 5, Even: 6, Odd: 7, Even: 8, Odd: 9)
+Right(56)
+Left(Nothing)
+Left(Nothing)
+Some(56)
+None
+None
+10
+Vector(10, 30, 90)
+Some(47)
+None
+Vector(47, 49, 51, 53)
+Hi
+Hi
+Some(HiHi)
+None
+None
+None
+Some(2)
+2
+None
+Some(4)
+Vector(Some(0), None, Some(2), None, Some(4), None, Some(6), None, Some(8), None)
+Vector(Even: 0, Odd, Even: 2, Odd, Even: 4, Odd, Even: 6, Odd, Even: 8, Odd)
+Success(1)
+Failure(java.lang.ArithmeticException: / by zero)
+6
+Failed: / by zero
+OK
+Except1 Reason
+Except2 11
+Except3 Wanted: 1.618
+OK
+Reason
+11
+Wanted: 1.618
+OK
+Reason
+11
+Wanted: 1.618
+Success(2)
+2
+OK Bob
+Reason
+11
+1.618
+49
+4
+100
+OK
+OK
+Failure(errors.Except1: Reason)
+Failure(errors.Except3: Wanted: 1.618)
+Except2
+Success(47)
+Failure(java.lang.Exception: 6 below threshhold 7)
+Vector(47, 49, 51, 53)
+class CodeListingTester(
+File Not Found: NotAFile.scala
+NotAScalaFile.txt doesn't end with '.scala'
+Error: Null file name
+(47,OK)
+No good: 1
+No good: 2
+No good: 3
+Caught in try block
+Failure(Negative value: -1)
+Success(7)
+Failure(Value too large: 11)
+Success(147)
+Failure(Value too large: 15)
+Failure(java.lang.NumberFormatException: For input string: "dog")
+Failure(Negative value: -1)
+6
+4
+4
+Failed: Divide by zero
+1
+0
+class CodeListingTester(
+File Not Found: NotAFile.scala
+NotAScalaFile.txt doesn't end with '.scala'
+Error: Null file name
+class CodeListingTester(
+File Not Found: NotAFile.scala
+NotAScalaFile.txt doesn't end with '.scala'
+Error: Null file name
+990.0
+java.lang.AssertionError: assumption failed: result must be less than 1000
+java.lang.IllegalArgumentException: requirement failed: i must be within 5 and 100
+'Hi'
+"Hi"
+'Single'
+"Double"
+Book(Dracula), category: Vampire
+Vector(Circle(2.2) area: 13.82, EQLTriangle(3.9) area: 6.59, Circle(4.5) area: 28.27)
+Circle(2.2) area: 13.82
+EQLTriangle(3.9) area: 6.59
+Circle(4.5) area: 28.27
