@@ -1,0 +1,6 @@
+val v1 = Vector("This", "Is", "A", "Vector", "Of", "Strings")
+println(v1)
+val v2 = Vector(4, 5, 6, 7, 8)
+println(v2)
+val v3 = Vector(Range(0, 2), Range(0, 5))
+println(v3)
