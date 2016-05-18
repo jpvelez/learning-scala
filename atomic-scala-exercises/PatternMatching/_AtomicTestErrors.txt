@@ -1,0 +1,6 @@
+UNKNOWN COLOR:white[Error] expected:
+UNKNOWN COLOR: white
+UNKNOWN COLOR:white[Error] expected:
+UNKNOWN COLOR: white
+UNKNOWN COLOR:white[Error] expected:
+UNKNOWN COLOR: white
