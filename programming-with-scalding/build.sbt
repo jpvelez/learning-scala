@@ -4,4 +4,7 @@ version := "1.0"
 
 scalaVersion := "2.11.8"
 
-libraryDependencies += "com.twitter" %% "scalding" % "0.16.0"
+libraryDependencies ++= Seq(
+  "com.twitter" %% "scalding-core" % "0.15.0",
+  "org.apache.hadoop" % "hadoop-core" % "1.1.2"
+)
