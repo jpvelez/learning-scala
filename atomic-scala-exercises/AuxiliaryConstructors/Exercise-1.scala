@@ -1,4 +1,4 @@
-// import com.atomicscala.AtomicTest._
+import com.atomicscala.AtomicTest._
 
 class ClothesWasher(val model:String, val capacity:Double) {
   def this(model:String) = {
